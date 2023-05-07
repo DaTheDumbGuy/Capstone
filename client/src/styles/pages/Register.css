@@ -1,5 +1,7 @@
 .register-page{
   padding-top: 100px;
+  background-color: orange;
+  font-family: 'Poppins', sans-serif;
 }
 .card {
   display: flex;
